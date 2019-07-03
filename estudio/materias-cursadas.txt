@@ -1,6 +1,9 @@
-fundamentos de programacion
-diseño uml
-programacion I
+﻿fundamentos de programacion
+ 
+diseño uml 
+programacion orientada a objectos
+
+programacion y 
 desarrollo web, html, css.
 
 
